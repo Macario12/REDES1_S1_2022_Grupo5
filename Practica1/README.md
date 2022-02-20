@@ -41,15 +41,15 @@
 
 - Pings 201908321
 
-![Katt1](/201905837/ping192.168.15.30.PNG)
+![Katt1](../Practica1/201905837/ping192.168.15.30.PNG)
 
 - Pings 201908335
 
-![Oscar1](/201905837/pinv2192.168.15.20.PNG)
+![Oscar1](../Practica1/201905837/pinv2192.168.15.20.PNG)
 
 - Pings 201612185
 
-![Byron1](/201905837/ping192.168.15.40.PNG)
+![Byron1](../Practica1/201905837/ping192.168.15.40.PNG)
 
 ## Configuraciones Cloudas
 
@@ -71,12 +71,12 @@
 
 - Clouds 201908321
 
-![Katt](/201905837/cloudkati.PNG)
+![Katt](../Practica1/201905837/cloudkati.PNG)
 
 - Clouds 201908335
 
-![Oscar](/201905837/cloudcoca.PNG)
+![Oscar](../Practica1/201905837/cloudcoca.PNG)
 
 - Clouds 201612185
 
-![Byron](/201905837/cloudbyron.PNG)
+![Byron](../Practica1/201905837/cloudbyron.PNG)
