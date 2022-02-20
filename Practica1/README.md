@@ -18,14 +18,16 @@
 
 ![Katerine](https://github.com/Macario12/REDES1_S1_2022_Grupo5/blob/main/Practica1/Kat%20Practica1/Configuracion%20de%20la%20vpc.PNG)
 
+- VPC 201905837
+
 ![Macario](../Practica1/201905837/vpc.PNG)
 
 
 ## Pings Entre Usuarios
 
-- Pings 201905837
-
 ### 201908321
+
+- Pings 201905837
 
 ![Macario](https://github.com/Macario12/REDES1_S1_2022_Grupo5/blob/main/Practica1/Kat%20Practica1/Macario.PNG)
 
