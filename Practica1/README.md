@@ -61,7 +61,7 @@
 
 - Pings 201908321
 
-![Katt1](../Practica1/201908335/Kati%20Cloud.PNG)
+![Katt1](../Practica1/201908335/PingKati.PNG)
 
 - Pings 201905837
 
