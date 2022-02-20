@@ -2,13 +2,12 @@
 
 ## Integrantes
 
-| Carné | Nombres |
-| ------------- | ------------- |
-| 201905837  | Ariel Rubelce Macario Coronado  |
-| 201908321  | Katerine Adalinda Santos Ramirez  |
-| 201908335  | Oscar Rene Rodriguez Vasquez   |
-| 201612185  | Byron Antonio Alvarez Morales   |
-
+| Carné     | Nombres                          |
+| --------- | -------------------------------- |
+| 201905837 | Ariel Rubelce Macario Coronado   |
+| 201908321 | Katerine Adalinda Santos Ramirez |
+| 201908335 | Oscar Rene Rodriguez Vasquez     |
+| 201612185 | Byron Antonio Alvarez Morales    |
 
 # 201908321
 
@@ -26,6 +25,9 @@
 
 ![Oscar](../Practica1/201908335/Configuracion%20VPC.PNG)
 
+- VPC 201612185
+
+![Oscar](../Practica1/201612185/vpc.jpg)
 
 ## Pings Entre Usuarios
 
@@ -71,6 +73,20 @@
 
 ![Byron1](../Practica1/201908335/PingByron.PNG)
 
+### 201612185
+
+- Pings 201908321
+
+![Katt4](../Practica1/201612185/pingKati.jpg)
+
+- Pings 201905837
+
+![Macario4](../Practica1/201612185/pingMaca.jpg)
+
+- Pings 201908335
+
+![Oscar4](../Practica1/201612185/pingOscar.jpg)
+
 ## Configuraciones Cloudas
 
 ### 201908321
@@ -84,7 +100,7 @@
 ![Oscar](https://github.com/Macario12/REDES1_S1_2022_Grupo5/blob/main/Practica1/Kat%20Practica1/Nube%20Oscar.PNG)
 
 - Clouds 201612185
- 
+
 ![Byron](https://github.com/Macario12/REDES1_S1_2022_Grupo5/blob/main/Practica1/Kat%20Practica1/Nube%20Byron.PNG)
 
 ### 201905837
@@ -114,3 +130,17 @@
 - Clouds 201612185
 
 ![Byron](../Practica1/201908335/Byron%20Cloud.PNG)
+
+### 201612185
+
+- Clouds 201908321
+
+![Katt](../Practica1/201612185/cloudKati.jpg)
+
+- Clouds 201905837
+
+![Macario](../Practica1/201612185/cloudMaca.jpg)
+
+- Clouds 201908335
+
+![Byron](../Practica1/201612185/cloudOscar.jpg)
