@@ -22,6 +22,10 @@
 
 ![Macario](../Practica1/201905837/vpc.PNG)
 
+- VPC 201908335
+
+![Oscar](../Practica1/201908335/Configuracion%20VPC.PNG)
+
 
 ## Pings Entre Usuarios
 
@@ -53,6 +57,20 @@
 
 ![Byron1](../Practica1/201905837/ping192.168.15.40.PNG)
 
+### 201908335
+
+- Pings 201908321
+
+![Katt1](../Practica1/201908335/Kati%20Cloud.PNG)
+
+- Pings 201905837
+
+![Macario](../Practica1/201908335/PingMacario.PNG)
+
+- Pings 201612185
+
+![Byron1](../Practica1/201908335/PingByron.PNG)
+
 ## Configuraciones Cloudas
 
 ### 201908321
@@ -82,3 +100,17 @@
 - Clouds 201612185
 
 ![Byron](../Practica1/201905837/cloudbyron.PNG)
+
+### 201908335
+
+- Clouds 201908321
+
+![Katt](../Practica1/201908335/Kati%20Cloud.PNG)
+
+- Clouds 201905837
+
+![Macario](../Practica1/201908335/Macario%20Cloud.PNG)
+
+- Clouds 201612185
+
+![Byron](../Practica1/201908335/Byron%20Cloud.PNG)
