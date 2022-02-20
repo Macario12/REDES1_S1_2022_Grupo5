@@ -10,29 +10,41 @@
 | 201612185  | Byron Antonio Alvarez Morales   |
 
 
+## 201908321
+
 ## Configuraciones VPC'S
 
-- VPC 201908335
+- VPC 201908321
 
-![Macario](https://github.com/Macario12/REDES1_Tarea-3/blob/main/Captuas%20Macario/I1.PNG)
-![Kati](https://github.com/Macario12/REDES1_Tarea-3/blob/main/Captuas%20Macario/I2.PNG)
-![Byron](https://github.com/Macario12/REDES1_Tarea-3/blob/main/Captuas%20Macario/I3.PNG)
-
+![Katerine](https://github.com/Macario12/REDES1_S1_2022_Grupo5/blob/main/Practica1/Kat%20Practica1/Configuracion%20de%20la%20vpc.PNG)
 
 
 ## Pings Entre Usuarios
 
+- Pings 201905837
+
+![Macario](https://github.com/Macario12/REDES1_S1_2022_Grupo5/blob/main/Practica1/Kat%20Practica1/Macario.PNG)
+
 - Pings 201908335
 
-![Macario](https://github.com/Macario12/REDES1_Tarea-3/blob/main/Captuas%20Macario/I1.PNG)
-![Kati](https://github.com/Macario12/REDES1_Tarea-3/blob/main/Captuas%20Macario/I2.PNG)
-![Byron](https://github.com/Macario12/REDES1_Tarea-3/blob/main/Captuas%20Macario/I3.PNG)
+![Oscar](https://github.com/Macario12/REDES1_S1_2022_Grupo5/blob/main/Practica1/Kat%20Practica1/Coca.PNG)
+
+- Pings 201612185
+
+![Byron](https://github.com/Macario12/REDES1_S1_2022_Grupo5/blob/main/Practica1/Kat%20Practica1/Byron.PNG)
 
 
 ## Configuraciones Cloudas
 
+- Clouds 201905837
+
+![Macario](https://github.com/Macario12/REDES1_S1_2022_Grupo5/blob/main/Practica1/Kat%20Practica1/Nube%20Macario.PNG)
+
 - Clouds 201908335
 
-![Macario](https://github.com/Macario12/REDES1_Tarea-3/blob/main/Captuas%20Macario/I1.PNG)
-![Kati](https://github.com/Macario12/REDES1_Tarea-3/blob/main/Captuas%20Macario/I2.PNG)
-![Byron](https://github.com/Macario12/REDES1_Tarea-3/blob/main/Captuas%20Macario/I3.PNG)
+![Oscar](https://github.com/Macario12/REDES1_S1_2022_Grupo5/blob/main/Practica1/Kat%20Practica1/Nube%20Oscar.PNG)
+
+- Clouds 201612185
+- 
+![Byron](https://github.com/Macario12/REDES1_S1_2022_Grupo5/blob/main/Practica1/Kat%20Practica1/Nube%20Byron.PNG)
+
